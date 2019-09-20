@@ -20,7 +20,7 @@ contentType: tutorial
 ---
 
 
-此教程将展示如何利用Mapbix GL JS创建一个商店定位地图。您将可以通过侧边栏浏览所有的位置并选择一个位置以查看详细信息。从侧边栏中选择一个[标签](/help/glossary/marker/)可以进而标记地图上所选商店的位置。
+此教程将展示如何利用 Mapbox GL JS 创建一个商店定位地图。您将可以通过侧边栏浏览所有的位置并选择一个位置以查看详细信息。从侧边栏中选择一个 [marker](/help/glossary/marker/) 可以进而标记地图上所选商店的位置。
 
 {{
   <DemoIframe src="/help/demos/gl-store-locator/step-five.html" />
